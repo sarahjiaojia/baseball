@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "我是一颗棒球"
+title:  "强棒少女"
 image:
-  feature: 001.jpg
+  feature: ![qiqiu](https://tva1.sinaimg.cn/large/008eGmZEly1goi5lwjebjj31400u0kk1.jpg)
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker

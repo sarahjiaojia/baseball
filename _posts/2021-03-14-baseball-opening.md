@@ -2,7 +2,7 @@
 layout: post
 title:  "强棒少女"
 image:
-  feature: https://github.com/sarahjiaojia/baseball/blob/main/assets/images/%E6%A3%92%E7%90%83%E5%91%80.jpg
+  feature: 棒球呀.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker

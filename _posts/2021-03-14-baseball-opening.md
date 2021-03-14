@@ -2,7 +2,7 @@
 layout: post
 title:  "我是一颗棒球"
 image:
-  feature: assets/images/棒球呀.jpg
+  feature: 001.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker

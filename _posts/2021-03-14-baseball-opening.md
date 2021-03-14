@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "我是一颗棒球"
-image:!
+image:
   feature: 001.jpg
   topPosition: 0px
 bgContrast: dark
